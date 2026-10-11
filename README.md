@@ -39,4 +39,5 @@ The project represents an alpha version of a spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
 
-
+![Java CI with Maven](https://github.com/kelly5132/se-lab/actions/workflows/maven.yml/badge.svg)
+![License](https://img.shields.io/github/license/kelly5132/se-lab)
