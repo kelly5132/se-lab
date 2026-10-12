@@ -41,10 +41,8 @@ public class TorpedoStore {
     double r = generator.nextDouble();
 
     if (r >= FAILURE_RATE) {
-      // successful firing
-
+      // successful firing  
       this.torpedoCount -= numberOfTorpedos;// decrease number of available torpedos
- main
       success = true;
     } else {
       // simulated failure
